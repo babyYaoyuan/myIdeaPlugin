@@ -35,7 +35,7 @@ import java.util.regex.Pattern;
 
 
 /**
- * YaoJumper
+ * YaoJumper idea小插件，可以用来跳转到指定的java方法、类
  * editor 姚远
  * gmt_create 2023年4月27日20:15:30
  */
